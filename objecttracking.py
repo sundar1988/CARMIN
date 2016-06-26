@@ -6,7 +6,7 @@ import sys
 
 cap = cv2.VideoCapture(1)
 print ('I am capturing video')
-
+print ("I added more data through ubantu")
 while(1):
 
     # Take each frame
