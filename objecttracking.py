@@ -5,6 +5,7 @@ import math
 import sys
 
 cap = cv2.VideoCapture(1)
+print ('I am capturing video')
 
 while(1):
 
